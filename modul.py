@@ -1,4 +1,4 @@
-﻿def spisok():
+﻿def spisok()->str:
 	"""Из файла делаем список
 	"""
 	palgad=[]
